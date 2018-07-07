@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorAccent">#ff9800</color>
+    <color name="textColorPrimary">@color/white</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="title_text">@color/white</color>
+    <color name="transparent_gray">#ffd95b</color>
+    <color name="bgBottomNavigation">@color/white</color>
+    <color name="transparent_black">#99000000</color>
+</resources>

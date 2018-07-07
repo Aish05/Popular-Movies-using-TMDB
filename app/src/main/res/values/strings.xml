@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="error_message">Error</string>
+
+    <string name="base_url">https://api.themoviedb.org/3/movie/popular?api_key={your_api_key}</string>
+    <string name="movie_obj">MovieObj</string>
+
+
+    <string name="title_overview">Overview:</string>
+    <string name="title_review">Review:</string>
+    <string name="title_trailer">Trailers:</string>
+    <string name="trailer_item">Trailer</string>
+    <string name="movie_poster_content_desc">Movie Poster</string>
+    <string name="title_release_date">Release Date:</string>
+    <string name="title_language">Language:</string>
+    <string name="title_home">Home</string>
+    <string name="title_fav">Favourites</string>
+    <string name="load_more_movies">Load More Movies</string>
+    <string name="no_internet">No Network Connectivity</string>
+    <string name="title_map">Maps</string>
+    <string name="access_token">pk.eyJ1IjoiYWlzaHdhcnlhMDUiLCJhIjoiY2pndDR5MzR4MHBjMzJxcDN3YndqZWVjZCJ9.9OwTIuDklDy4R14jHY76HA</string>
+    <string name="draw_marker_options_title">Sathyam Cinemas</string>
+    <string name="draw_marker_luxe">Luxes Cinemas</string>
+    <string name="draw_marker_escape_cinemas">Escape Cinemas</string>
+    <string name="draw_marker_inox_cinemas">Inox Cinemas</string>
+    <string name="draw_marker_pvr_cinemas">PVR Cinemas Grand Galada</string>
+    <string name="draw_marker_ags_cinemas">AGS Cinemas</string>
+    <string name="draw_marker_devi_multiplex">Devi Kala Cinema Hall</string>
+    <string name="draw_marker_mayajal_multiplex">Mayajaal Multiplex</string>
+    <string name="draw_marker_abirami_cinemas">Abirami Cinemas</string>
+    <string name="draw_marker_sangam_cinemas">Sangam Multiplex</string>
+    <string name="movie_title">Movie Title:</string>
+    <string name="popular_movies_help">Popular Movies Help</string>
+    <string name="bullet">•</string>
+    <string name="features">Features</string>
+    <string name="get_popular_movie_details">Get Popular Movie details:</string>
+    <string name="primary_info">Primary info such as:</string>
+    <string name="posters">Posters</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="add_to_favourites">Add To Favourites:</string>
+    <string name="add_movies_to_your_favourites_and_view_them_always">Add Movies to your favourites and view them always</string>
+    <string name="top_10_theatres_in_chennai_can_be_viewed_in_map_at_the_top">Top 10 theatres in Chennai can be viewed in Map at the top</string>
+    <string name="view_map">View Map</string>
+    <string name="ok">OK</string>
+</resources>
